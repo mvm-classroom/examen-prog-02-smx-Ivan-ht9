@@ -88,6 +88,7 @@ mostrar_menu ()
 demanar_opcio ()
 
 
+
 # Heu de treballar amb una llista a la que li farem diverses operacions mostrades al menú
 # Si ens introdueixen l'opció "F" acabarem el programa
 # Si no ens introdueixen l'opció "F" farem l'acció corresponent i tornarem a preguntar
